@@ -10,6 +10,7 @@ char* StrCpy(char* src)
     return temp;
 }
 
+
 /*/*/*/*
 strcpy函数代码
 */*/*/*/
@@ -17,3 +18,4 @@ strcpy函数代码
 /**
 本地编辑
 **/
+
