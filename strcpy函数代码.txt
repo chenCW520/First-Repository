@@ -9,3 +9,11 @@ char* StrCpy(char* src)
     temp[i]='\0';
     return temp;
 }
+
+/*/*/*/*
+strcpy函数代码
+*/*/*/*/
+
+/**
+本地编辑
+**/
